@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": "poll_n_more:raw_tortilla",
+  "result":
+  {
+    "id": "poll_n_more:cooked_tortilla"
+  }
+}
