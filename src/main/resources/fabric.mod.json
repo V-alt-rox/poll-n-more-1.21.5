@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/poll-n-more/icon.png",
+	"icon": "assets/poll_n_more/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
