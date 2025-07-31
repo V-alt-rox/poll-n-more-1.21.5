@@ -17,10 +17,8 @@
 	"entrypoints": {
 		"main": [
 			"com.pnm.valtrox.PollnMore"
-		],
-		"client": [
-			"com.pnm.valtrox.PollnMoreClient"
 		]
+
 	},
 	"mixins": [
 		"poll-n-more.mixins.json",
