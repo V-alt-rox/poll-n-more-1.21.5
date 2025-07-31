@@ -1,0 +1,12 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "poll_n_more:raw_tortilla_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "poll_n_more:raw_tortilla"
+  }
+}

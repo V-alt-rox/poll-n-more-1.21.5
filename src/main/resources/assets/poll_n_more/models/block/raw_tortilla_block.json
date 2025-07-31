@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "poll_n_more:block/raw_tortilla_block"
+  }
+}

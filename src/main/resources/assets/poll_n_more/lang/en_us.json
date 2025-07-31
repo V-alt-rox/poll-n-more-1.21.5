@@ -1,7 +1,10 @@
 {
   "item.poll_n_more.new_milk": "Latte fresco di Ragusa parzialmente scremato",
   "item.poll_n_more.raw_tortilla": "Piadina cruda",
-  "item.poll_n_more.cooked_tortilla": "Piadina cotta"
+  "item.poll_n_more.cooked_tortilla": "Piadina cotta",
+  "item.poll_n_more.nso_sub": "Iscrizione individuale di Nintendo Switch Online",
+  "item.poll_n_more.raw_tortilla_block": "Blocco di piadina cruda",
+  "itemGroup.poll_n_more.mod_items": "Poll 'N More"
 
 
 }
